@@ -2,7 +2,8 @@
 The Event Report Application offers the possibility to display current (created by CityPulse Event Detectiona and by this application) events on a map view within an Android application. It is possible to inspect these events and to report new ones. For events reported by this application it is possible to change their level and to delete them. The connection to CityPulse framework is done by the message bus. The application was developed for testing purposes for Event Management and Composite Monitoring.
 
 ## Requirements and Dependencies
-- Android 5.1
+- Android 5.1 smartphone
+- Android Studio
 - Running CityPulse framework and a running instance of the Message Bus
 
 ## Installation
