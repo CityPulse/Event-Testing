@@ -1,0 +1,17 @@
+{
+  "rabbitmq": {
+    "host": "131.227.92.55",
+    "port": 8007
+  },
+    "websocket": {
+    "host": "localhost",
+    "port": 9455
+  },
+  "interface": {
+    "global": {
+      "server.socket_host": "127.0.0.1",
+      "server.socket_port": 9090,
+      "server.thread_pool": 5
+    }
+  }
+}
