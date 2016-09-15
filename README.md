@@ -11,7 +11,7 @@ Further descriptions of the componens are included in the subfolders
 
 
 ## Contributers
-The EventTesting components were developed as part of the EU project CityPulse. The consortium member University of Applied Sciences provided the main contributions for this component.
+The EventTesting components were developed as part of the EU project CityPulse. The consortium member University of Applied Sciences Osnabrück provided the main contributions for this component.
 
 
 ![EventMap](https://github.com/CityPulse/EventTesting/blob/master/eventbridge/eventexplorer/screen0.png)
